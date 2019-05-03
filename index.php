@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KUNAL/KARTHIK</title>
+	<title>chess</title>
 	<style type="text/css">
 		body {
 			background-image: url("image.jpg");
