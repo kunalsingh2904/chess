@@ -13,4 +13,4 @@ Download this folder containing the codes and put it in var/www/html folder on y
 For XAMPP users:
 Download this folder containing the codes and put it in your htdocs folder.
 
-BY kunal and karthik
+By Kunal Kumar and Karthik V.V
