@@ -11,3 +11,9 @@ In Window:
 Now go to your web browser and type localhost/Chess/
 
 Best view in Google Chrome and Mozilla.
+
+
+
+EDIT:
+	changes php to html. 
+	just download and double vlick on index.html

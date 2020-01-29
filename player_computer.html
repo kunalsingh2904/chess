@@ -161,8 +161,8 @@
     <div id="clock" class="ccc"></div>
     <div id="day" class="ddd"></div>
     <div class="clockpos"></div>
-    <div class="restart"><a href="player_computer.php"><button class="restartb">RESTART GAME</button></a></div>
-    <div class="home"><a href="index.php"><button class="homeg">HOME</button></a></div>
+    <div class="restart"><a href="player_computer.html"><button class="restartb">RESTART GAME</button></a></div>
+    <div class="home"><a href="index.html"><button class="homeg">HOME</button></a></div>
     
     <div class="stp">STOP WATCH</div>
     <div class="stopwatch">00:00:00</div>
@@ -1235,7 +1235,7 @@
         }
         if(many==total){
             alert('you lose');
-            window.location="index.php";
+            window.location="index.html";
         }
     }
 
@@ -1443,7 +1443,7 @@
         
         if(bestEffect >= 100){
             alert("You Win");
-            window.location="index.php";
+            window.location="index.html";
             setTimeout(function(){
                 values = ['r','n','b','q','k','b','n','r','p','p','p','p','p','p','p','p',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'o','o','o','o','o','o','o','o','t','m','v','w','l','v','m','t'];
         },100);
@@ -1614,7 +1614,7 @@ function startTime(){
         function maxxTime2(){
             if(mvv2 >= 45){
                 alert("The time for this game has reached 45 minutes. So the game is drawn.\n Click ok to go to our home page.");
-            window.location="index.php";
+            window.location="index.html";
                
             }
 
@@ -1630,7 +1630,7 @@ function startTime(){
                     alert("Time limit exceeded. You Lose\n Now you will be ridirected to our home page.");
                     countmin=1;
                 }
-            window.location="index.php";
+            window.location="index.html";
                
             }
 
